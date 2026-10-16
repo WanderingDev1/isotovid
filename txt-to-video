@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 txt_filename = "iso_raw_dump.txt" # or whatever you renamed it too
-video_filename = "txt_static_movie.mp4" # or whatever you want the name it to
+video_filename = "isotovideo.mp4" # or whatever you want the name it to
 
 width, height = 1280, 720
 fps = 30
