@@ -3,7 +3,7 @@ import numpy as np
 import time
 
 txt_filename = "iso_raw_dump.txt" # or whatever it is named as
-audio_filename = "iso_audio.raw"  # or whatever you want it to be called
+audio_filename = "isotoaudio.raw"  # or whatever you want it to be called
 sample_rate = 44100  
 
 
