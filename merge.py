@@ -15,7 +15,7 @@ else:
     print("Syncing video and audio tracks...")
     final_clip = video_clip.with_audio(audio_clip)
     
-    print("🎬 Rendering your normal-speed glitch video layout...")
+    print(" Rendering the video ...")
     final_clip.write_videofile(
         video_output, 
         codec="libx264", 
